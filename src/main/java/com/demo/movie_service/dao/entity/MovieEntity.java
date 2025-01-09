@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 @Data
 
 @Entity
-@Table(name="movie-details")
+@Table(name="movie_details")
 public class MovieEntity {
 	
 	@Id
